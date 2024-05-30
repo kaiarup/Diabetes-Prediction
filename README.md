@@ -12,7 +12,8 @@ The dataset used in this example includes the following columns:
 - Outcome (Class variable: 0 or 1)
 
 ## Objective
-The goal is to filter out all records where any independent variable has a value of 0 (excluding the Outcome column).
+First goal is to filter out all records where any independent variable has a value of 0 (excluding the Outcome column).
+Second goal is to ..
 
 ## Steps to Process Data in Google Colab
 
